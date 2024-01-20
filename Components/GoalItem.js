@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
   goalText: {
     padding: 8,
     color: "white",
-  },
+    },
   pressedGoal: {
     opacity: 0.5,
     borderRadius: 6,
